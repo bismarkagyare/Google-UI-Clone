@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../FCC Projects"
+		},
+		{
+			"path": "../../../Downloads/nft-preview-card-component-main"
+		},
+		{
+			"path": "../../../Downloads/Simon Game Challenge Starting Files"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "UI Clones"
+	}
+}

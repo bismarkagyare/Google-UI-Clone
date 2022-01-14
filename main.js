@@ -1,5 +1,8 @@
+//query selected my main search input in the document
 const searchInput = document.querySelector("#main-search");
 
+// added an event listener to my search input that i selected and 
+// when an event is detected, a function is perform
 
 searchInput.addEventListener("keydown", function(event){
     if(event.code === "Enter"){
@@ -7,6 +10,7 @@ searchInput.addEventListener("keydown", function(event){
     }
 });
 
+//this function adds a value to my search input using the google href, then inserted that ///value into the href
 
 function search(){
     const input = searchInput.value;
